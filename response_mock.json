@@ -1,0 +1,158 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4320697,
+          "lng": 26.098152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.43333787989273,
+            "lng": 26.09900352989272
+          },
+          "southwest": {
+            "lat": 44.43063822010728,
+            "lng": 26.09630387010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "32b09038629fd9f659f54d1108103f609ccf432f",
+      "name": "Caru' cu bere",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100814072384900225334/photos\">C Y Tse</a>"
+          ],
+          "photo_reference": "CmRaAAAAHsqMpxiRsn0gROLH9Hq4pnzD_7bKFYhLwJ2Jc03DmObVqL4Us6D80FtghuDqYtg3zPbFApYREHdqPnb4lVOKYPaCyawtvwC_bj-V82LV3hzqGmXno3ZWcrAI8R7P5BjeEhAP7K8tc3omgQr03JBD2K4gGhSML0OU7lEDmE1h4vb1gWe-6yZREQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJwXfea0D_sUARVKdY1hnDhco",
+      "plus_code": {
+        "compound_code": "C3JX+R7 Bucharest",
+        "global_code": "8GP8C3JX+R7"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJwXfea0D_sUARVKdY1hnDhco",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20696,
+      "vicinity": "Strada Stavropoleos 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4303277,
+          "lng": 26.1024386
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.43192687989272,
+            "lng": 26.10432092989273
+          },
+          "southwest": {
+            "lat": 44.42922722010728,
+            "lng": 26.10162127010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c304f8df71e90904c090ddb168853cbcabb09f06",
+      "name": "Vecchio 1812",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 637,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113477091452362815877/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAXRnbj-YJrisH5OKlmJkKi5QiugBt1UlHDtuk5NUA827ZL49kqF9rO0GBaUmAy8GNLJcjll838kvACg4qMSTB60Cw3PMuSBhjG43-rwbwI9ZdJqamL1nQuogbBnAfoBHzEhD-mvTp95f0dyxOwTbcmNvHGhRq_BuSCgviZYZTTDPXJ08xS4mz9g",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJTTclNz7_sUARbheVls_sdSs",
+      "plus_code": {
+        "compound_code": "C4J2+4X Bucharest",
+        "global_code": "8GP8C4J2+4X"
+      },
+      "rating": 5,
+      "reference": "ChIJTTclNz7_sUARbheVls_sdSs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Strada Covaci 16, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4300804,
+          "lng": 26.0976825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.43131857989273,
+            "lng": 26.09872047989272
+          },
+          "southwest": {
+            "lat": 44.42861892010728,
+            "lng": 26.09602082010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id": "366c584e692920980ac6aa2a048ad18a28bb5e4c",
+      "name": "Forever Young - Restaurant & Club",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106081986262465379265/photos\">Bogdan Cernat</a>"
+          ],
+          "photo_reference": "CmRaAAAAcLtnq2yovr7te_jef3CXVLIQY2yhvf5KD8H95dKZCfsow_XfW8Pdn3xksw3-k8yKDQcvPvQeU9wOSZ8m2qYoBVUEQbl4rKjJH46izEIcssFWZxt2eRwj-q1AphxCFMbtEhASv_HrxlplRWilm9bntMiJGhTcXbREryH1PZynOdJXspngmDkgQg",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJUfL-tG3_sUARHpPYRhpif9M",
+      "plus_code": {
+        "compound_code": "C3JX+23 Bucharest",
+        "global_code": "8GP8C3JX+23"
+      },
+      "rating": 4.9,
+      "reference": "ChIJUfL-tG3_sUARHpPYRhpif9M",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "Strada Nicolae Tonitza 13, București"
+    }
+  ],
+  "status": "OK"
+}

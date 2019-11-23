@@ -1,0 +1,875 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CqQCFQEAAK2nvabVx7jqXcmwrhpNIueuBlpDl-p8WwQsarmboIExM8uUBuetHOPCRYa7oLQRLWKrhOqtk4YFqSUDWnOQ5nbIdKl6NDBhwuqp5DRGqoR9faP5CkNKABBe507kyVnUoKY6THH9C-CRLujF4ER-yY9d61VILrRjEJTumB24yZRhxkdcITHtGYNh_1Tgv5Q0PyUFDw37nMWdk2QXX_EuRDqVZwydvJBRC2TyRycR4Nwwpp9vFVbbJkHzKbJ6an6ehHiqYLvWJwV1TvkJFK1cW3prU3Q8TYMxafUuBpEmy8rWyN95nBG5THDJya5z25-5_HU1Nrc5scFEHt09l1bZLYuo-Vp0a5V7WOMmNW0ix1WEGUf0bTJR3gTO1KnAJlWaKBIQsu5ARChMcpjFQ_oGiUqA4xoUpNcnZyuvR156a074-OqJQ5eqErM",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.42926140000001,
+          "lng": 26.1012304
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4306103802915,
+            "lng": 26.1025793802915
+          },
+          "southwest": {
+            "lat": 44.4279124197085,
+            "lng": 26.0998814197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id": "54bb140c24d7b26fbb80b2f3483492aa3078746f",
+      "name": "Strada Halelor 9",
+      "place_id": "ChIJsSPKhRX_sUARheCIxV-XnP8",
+      "reference": "ChIJsSPKhRX_sUARheCIxV-XnP8",
+      "scope": "GOOGLE",
+      "types": [
+        "route"
+      ],
+      "vicinity": "Sector 3"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4295273,
+          "lng": 26.1016015
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4308641802915,
+            "lng": 26.1029134802915
+          },
+          "southwest": {
+            "lat": 44.4281662197085,
+            "lng": 26.1002155197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "748ff0bfbe79d1cc484f809611f49bde1a3d5e2c",
+      "name": "Europa Royale Bucharest Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3503,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113200171426468261720/photos\">Europa Royale Bucharest Hotel</a>"
+          ],
+          "photo_reference": "CmRaAAAApgpBsXe71rQdtBIbzL_wSBR9gMUTjVIU-gNjNKh5h6xPM6VyBm5Vk8KZ3mkrduo_Ojmp9TOo8Pp8lW9AIRZUETksFSqXVD9CAGGkACYR9f_g0D3JAEYlm6DV4jLGT7BoEhA--OzleqxMcvj1InZbe6hHGhSjP743K-AByyvZOXITbHOIWcG1vg",
+          "width": 5254
+        }
+      ],
+      "place_id": "ChIJJQd6hxX_sUARWMIf0Dq89Sk",
+      "plus_code": {
+        "compound_code": "C4H2+RJ Bucharest, Romania",
+        "global_code": "8GP8C4H2+RJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJJQd6hxX_sUARWMIf0Dq89Sk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 804,
+      "vicinity": "Strada Franceză 60, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4298183,
+          "lng": 26.1006664
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4310385302915,
+            "lng": 26.1017775302915
+          },
+          "southwest": {
+            "lat": 44.4283405697085,
+            "lng": 26.09907956970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "19ec38c0d445a601900fdc19b517ea7f1b4c910c",
+      "name": "Color Apartments Franceza St",
+      "place_id": "ChIJ__8P1j__sUARGSXwfwKkZQE",
+      "plus_code": {
+        "compound_code": "C4H2+W7 Bucharest, Romania",
+        "global_code": "8GP8C4H2+W7"
+      },
+      "reference": "ChIJ__8P1j__sUARGSXwfwKkZQE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Franceză 52, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429417,
+          "lng": 26.10083400000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307357802915,
+            "lng": 26.1021694802915
+          },
+          "southwest": {
+            "lat": 44.4280378197085,
+            "lng": 26.0994715197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5c65fb226c732ec63c17b79383ebabe6d2d9a710",
+      "name": "Limonade",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 661,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103646142956209721311/photos\">Agentia de marketing Limonade</a>"
+          ],
+          "photo_reference": "CmRaAAAAb9le-LkzjZ2zcGUE-FQysQrO3oZtF3zPT48VaoV7TQhhqsCsdCoxb-bagfc5djOATKsuKAGsfjy1JoakurnveONuuBeVIuUQoCOVsMOIFz6Q-N2aBgs3tQr1eep8JqXwEhBEib0iiEAJM7Mm4LHefb7zGhTxUErtDvf_pfRr2Z39or264o_uhA",
+          "width": 525
+        }
+      ],
+      "place_id": "ChIJaXf1aD__sUAR7QX8TcnIzAo",
+      "plus_code": {
+        "compound_code": "C4H2+Q8 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q8"
+      },
+      "rating": 3,
+      "reference": "ChIJaXf1aD__sUAR7QX8TcnIzAo",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4295257,
+          "lng": 26.1012324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.43075393029149,
+            "lng": 26.1025273802915
+          },
+          "southwest": {
+            "lat": 44.4280559697085,
+            "lng": 26.0998294197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b2ae19a5388ef1cdb490d2be2147e7d748d25362",
+      "name": "Ascendia S.A",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115616756654660141683/photos\">Ascendia S.A</a>"
+          ],
+          "photo_reference": "CmRaAAAADTRNl96lUkOulbleUFx8DAv7I2gfsgI-0PbaCWRgf0s2KMvELYxrP-_Bnjq9T1zLhQXW0MTQKdGrRggmIAYWQ2MI-mjPk3CTsZLfxZgZk24dU5jAUoLMLxoJP3YoprI7EhDC2y9kOX_M9EdUVXi1rWGHGhRh31bakRzQLL0vhxst55Y5xcv8Uw",
+          "width": 4467
+        }
+      ],
+      "place_id": "ChIJPSWSpbP4sUAR1eTDDEGC4LQ",
+      "plus_code": {
+        "compound_code": "C4H2+RF Bucharest, Romania",
+        "global_code": "8GP8C4H2+RF"
+      },
+      "reference": "ChIJPSWSpbP4sUAR1eTDDEGC4LQ",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Halelor nr. 7, etaj 3, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429481,
+          "lng": 26.10095
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.43075873029149,
+            "lng": 26.1022671302915
+          },
+          "southwest": {
+            "lat": 44.4280607697085,
+            "lng": 26.0995691697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "0487256881e8c9522960845906dec3fa66970e2b",
+      "name": "Enovate Romania",
+      "place_id": "ChIJR6R7ptgBskARAMKAVTr5bWs",
+      "plus_code": {
+        "compound_code": "C4H2+Q9 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q9"
+      },
+      "reference": "ChIJR6R7ptgBskARAMKAVTr5bWs",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4295739,
+          "lng": 26.1010359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4308005802915,
+            "lng": 26.10233018029151
+          },
+          "southwest": {
+            "lat": 44.4281026197085,
+            "lng": 26.0996322197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "fcbb3747818c78b91661064bd288cbd53dbbcd98",
+      "name": "R/GA Bucharest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114750653089516159476/photos\">lucia l</a>"
+          ],
+          "photo_reference": "CmRaAAAAVXg92wqt2SnR5dhqFA95m7cc0ivgLesK_-x7x9eSDUiVJ2Nb2242HPvkleI4pxEvhmfuum_AFoHKFmDxDOzSe7xCsrqk1kmhdA5x5S5OaLfYZdk8rStC2U5pV1MxOgDYEhCTfA6weMmxcZWR2kB-vNM5GhTNKll_btjandsEjAItlze0TJPi-A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJce9xCv4BskARstAcgZpXrG0",
+      "plus_code": {
+        "compound_code": "C4H2+RC Bucharest, Romania",
+        "global_code": "8GP8C4H2+RC"
+      },
+      "rating": 4.7,
+      "reference": "ChIJce9xCv4BskARstAcgZpXrG0",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.42955749999999,
+          "lng": 26.1010098
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307943302915,
+            "lng": 26.1023086302915
+          },
+          "southwest": {
+            "lat": 44.4280963697085,
+            "lng": 26.0996106697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4ee49a8d598dad8bad8dd38b3be7d215e0b3f7fa",
+      "name": "FILCASA",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110799978984443715286/photos\">monica maracineanu</a>"
+          ],
+          "photo_reference": "CmRaAAAAXNwELMfcQ76YiihwhMAcBcuaqgWDhWGFfiMDd20yATI875J3Yl-Gqld-SpNTj8OA2gkOIIbjk2kFsnSJNQwCsmkb1f_Zn26sVxXCqMcM5CevAgtTYUBWscH6tVPB2eHDEhCkaea2A4NKdGHo3QfzZTuqGhTXhnYWJiq172waLcmbPK5w0XkGTA",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJI8QtgBX_sUARhSyJxtVXI6U",
+      "plus_code": {
+        "compound_code": "C4H2+RC Bucharest, Romania",
+        "global_code": "8GP8C4H2+RC"
+      },
+      "reference": "ChIJI8QtgBX_sUARhSyJxtVXI6U",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.42955749999999,
+          "lng": 26.1010098
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307943302915,
+            "lng": 26.1023086302915
+          },
+          "southwest": {
+            "lat": 44.4280963697085,
+            "lng": 26.0996106697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a988e4ce62e52e569b50da29ccec5157a7f89d6e",
+      "name": "Commons Unirii",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3945,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110248077018442984766/photos\">Alexandra Popescu</a>"
+          ],
+          "photo_reference": "CmRaAAAAYu1VC7AA2FXM2fGs5s14b-2mu-fJc8fv1XsOaMjGDQUqpoJ9ZK78Qb2Go69X2kEmYCc707ZB91mex3IzQZyELPZnCc7DcCkEMkL5eYT6Bl2vQOs7Ldihc4AAPI8FUeW5EhAk0Bf-HHp8wQ8J8r866k99GhQq67DZquM02FN1KDw7caxKJzPHTg",
+          "width": 2572
+        }
+      ],
+      "place_id": "ChIJI8QtgBX_sUAR4onmIsDWFFA",
+      "plus_code": {
+        "compound_code": "C4H2+RC Bucharest, Romania",
+        "global_code": "8GP8C4H2+RC"
+      },
+      "rating": 4.8,
+      "reference": "ChIJI8QtgBX_sUAR4onmIsDWFFA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 119,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4295575,
+          "lng": 26.1010097
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307943302915,
+            "lng": 26.1023085302915
+          },
+          "southwest": {
+            "lat": 44.42809636970851,
+            "lng": 26.0996105697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "42e370aa5a4ecf3f5369a4ce45297d599aa3ca55",
+      "name": "Patrick Siki",
+      "place_id": "ChIJJcQtgBX_sUARDScPeQ2i50o",
+      "plus_code": {
+        "compound_code": "C4H2+RC Bucharest, Romania",
+        "global_code": "8GP8C4H2+RC"
+      },
+      "reference": "ChIJJcQtgBX_sUARDScPeQ2i50o",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4295053,
+          "lng": 26.1012043
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307456802915,
+            "lng": 26.1025047302915
+          },
+          "southwest": {
+            "lat": 44.42804771970851,
+            "lng": 26.0998067697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "61aef37ace840f394d2046d4d90762535c74bc57",
+      "name": "Maxim&Partners",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1638,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108994533150131697238/photos\">Maxim&amp;Partners</a>"
+          ],
+          "photo_reference": "CmRaAAAA6C6-YHLYDl-aW0AIpXkgwSZgh41AR6RSyPjKt_FPI84ju6VapPhtefM0m9RB9oI-iNgCX98M1fSexDj_BQ9jZRMMxRkaL9i5ih1bc7qCRi4wNA9dlgYzcR1bkwc_FxGcEhDYLSj3pBkMMOpzoUmGyjz3GhRoEzod2Hh9RW_jQ15Pza640oRi8Q",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJa-f8gBX_sUARosBunoKUhnk",
+      "plus_code": {
+        "compound_code": "C4H2+RF Bucharest, Romania",
+        "global_code": "8GP8C4H2+RF"
+      },
+      "rating": 4.4,
+      "reference": "ChIJa-f8gBX_sUARosBunoKUhnk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "Strada Halelor 7, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429483,
+          "lng": 26.100998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4308319802915,
+            "lng": 26.1023469802915
+          },
+          "southwest": {
+            "lat": 44.4281340197085,
+            "lng": 26.0996490197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id": "a2ae968a03ac53acba73ab2beea2bfafc6bda96f",
+      "name": "Vamist",
+      "place_id": "ChIJw8PAgRX_sUARkt15DgTzL-4",
+      "plus_code": {
+        "compound_code": "C4H2+Q9 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q9"
+      },
+      "reference": "ChIJw8PAgRX_sUARkt15DgTzL-4",
+      "scope": "GOOGLE",
+      "types": [
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5 Halelor street, 2nd & 3rd floor, Unirii Square, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4294671,
+          "lng": 26.10097489999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4308160802915,
+            "lng": 26.1023238802915
+          },
+          "southwest": {
+            "lat": 44.4281181197085,
+            "lng": 26.09962591970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "c54c0fd0126e3591ff41877450792bfa1ffd2dfd",
+      "name": "Zuzela",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110799978984443715286/photos\">monica maracineanu</a>"
+          ],
+          "photo_reference": "CmRaAAAAsBeKOkFdDdlsUzKRmb3zAWKmI_66FUQ9kvzYptlPgy6OPESV7vUlqbb6jBvoskp0Qv1hxzL19nHL1vaxSGOskvSoRtpaVVsmGiKdtOgzdEUz3sLZ52COy7VKIinf4hr5EhDPNBa2pI4lZJor14BN5GLqGhSJlfpgxuh35CPpS38TRtVgEZt_mQ",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJI8QtgBX_sUARKVP3NnkKzTk",
+      "plus_code": {
+        "compound_code": "C4H2+Q9 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q9"
+      },
+      "rating": 4.7,
+      "reference": "ChIJI8QtgBX_sUARKVP3NnkKzTk",
+      "scope": "GOOGLE",
+      "types": [
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.42942729999999,
+          "lng": 26.1011151
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307123302915,
+            "lng": 26.1024354802915
+          },
+          "southwest": {
+            "lat": 44.4280143697085,
+            "lng": 26.09973751970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "6398ea71181dd0aef468d0357a44b28934f935c8",
+      "name": "Tupperware Romania",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117861098705013527206/photos\">Dan Costea</a>"
+          ],
+          "photo_reference": "CmRaAAAAt8nNsDyi3ZRAsTX5auRdn7UjqrV3xGR5mc3Gw0Upgw5uONkVwuWxqtCSTmDoPf4H0cYAIVB5A5ZyDMAJF1NmFm1ZOmb7CO9z-7zTZeWHzngZ_RV7sztgwAS9iGoIr8PhEhBCUPfKs65ngZl5uXcehOU7GhS4L-wj_2qw7LfuuA1kLPOGFBz-Zw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJi1ZwgRX_sUAR1flXm44aqVU",
+      "plus_code": {
+        "compound_code": "C4H2+QC Bucharest, Romania",
+        "global_code": "8GP8C4H2+QC"
+      },
+      "rating": 4.8,
+      "reference": "ChIJi1ZwgRX_sUAR1flXm44aqVU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429417,
+          "lng": 26.10083400000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307357802915,
+            "lng": 26.1021694802915
+          },
+          "southwest": {
+            "lat": 44.4280378197085,
+            "lng": 26.0994715197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "0dc749b7fde0aeb00e5d2d0983def2b7cb7a9d2a",
+      "name": "Foraje puțuri apă EUforaje.ro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114408767498695473574/photos\">Foraje puțuri apă EUforaje.ro</a>"
+          ],
+          "photo_reference": "CmRZAAAAqVJhn_R07AY7BYTREZZWNCtW-E2ayj94GBk6LSOAg1dqvYgGNkX3Hq9vrGfA05fXzfZLUTdGDwY8q8g0XEuA3zNER0R_3VRixJOwXsSjpSnMEv2KXBdXSXYnk-kzCq2wEhAJSYJVcqWlY7NPZVuNgsJGGhQDPUujha6dveojtKctRUJcsQxlGQ",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJHecAghX_sUAR-GSeHibIdS8",
+      "plus_code": {
+        "compound_code": "C4H2+Q8 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q8"
+      },
+      "rating": 4.9,
+      "reference": "ChIJHecAghX_sUAR-GSeHibIdS8",
+      "scope": "GOOGLE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429417,
+          "lng": 26.10083400000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4307357802915,
+            "lng": 26.1021694802915
+          },
+          "southwest": {
+            "lat": 44.4280378197085,
+            "lng": 26.0994715197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "9f1798ec98753b5f3332c5751ebb9c528a2d2682",
+      "name": "Statii ITP",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1602,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112959919093355019813/photos\">Statii ITP</a>"
+          ],
+          "photo_reference": "CmRaAAAAHtxv7DSmldzXGt3DjAhVT8LLcMZ5JWwNFMUW94Ngsod1Pm35hkkoKQGAyoe-fpsLptsXGrSVqF6lGwId1EuHptrjaSdHsjAdnIFj0k3zB6VNThHlilEcn2nmrLNqIaThEhB6IX0J59ay_s5FW2SX09GTGhR8F-C9w9cC7g2umoyVl3Z_UfS19Q",
+          "width": 2848
+        }
+      ],
+      "place_id": "ChIJHecAghX_sUAR3qu-XN1KdNU",
+      "plus_code": {
+        "compound_code": "C4H2+Q8 Bucharest, Romania",
+        "global_code": "8GP8C4H2+Q8"
+      },
+      "rating": 4.7,
+      "reference": "ChIJHecAghX_sUAR3qu-XN1KdNU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "Strada Halelor 5, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.42978360000001,
+          "lng": 26.1010722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4310282302915,
+            "lng": 26.1019811302915
+          },
+          "southwest": {
+            "lat": 44.4283302697085,
+            "lng": 26.0992831697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "253ef8471babc78773aea28ebc2bc586be4ffde2",
+      "name": "Red Angus Steakhouse",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101626145402381983469/photos\">Red Angus Steakhouse</a>"
+          ],
+          "photo_reference": "CmRaAAAAOUb7oRbyNLjiRPAuAgOmwsZjJIq-JA1zV9t3dd9Hk-LF5tgD17IX92GY3wQtKA6v5QFpDjmulb_eJSov1SPWriJOcFSSlnVxzxrTzWBgOxbHzH_vz1azeQQF4-X4FPT0EhDv8QtJbTl4byKmbolIH566GhQ0917ESUHrJ8L6Wi98uZ-NqhE8vQ",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJIfAf1T__sUARJqLlMB0b6Do",
+      "plus_code": {
+        "compound_code": "C4H2+WC Bucharest, Romania",
+        "global_code": "8GP8C4H2+WC"
+      },
+      "price_level": 3,
+      "rating": 4.1,
+      "reference": "ChIJIfAf1T__sUARJqLlMB0b6Do",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1037,
+      "vicinity": "Strada Franceză 56, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4293697,
+          "lng": 26.10154989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4306319802915,
+            "lng": 26.10289168029151
+          },
+          "southwest": {
+            "lat": 44.4279340197085,
+            "lng": 26.1001937197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b1e23c324789802ed94ce9e4f596e1c1a3fbc1bb",
+      "name": "dm drogerie markt srl",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116899644196210151525/photos\">WuTang Huawei</a>"
+          ],
+          "photo_reference": "CmRaAAAAR6Cjsn2K1v9-c6kt6vYaZLN5p5Tq-wgV_H4umVf8J6Vmw9J0Ki_LVoqeqGiOgBUnLJm4LFeo5cjbOvMF_2vdRK0Pnyqry4rUSuBoFpaGa7eNb0Xjz2Ph5AluRqLZ3EutEhAbklqsMyCZn8KSm5oJnSGWGhRWW6W_ewwsYonTfGT5JVgkyfMlhg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJN3m8iBX_sUARS22xXek1Si4",
+      "plus_code": {
+        "compound_code": "C4H2+PJ Bucharest, Romania",
+        "global_code": "8GP8C4H2+PJ"
+      },
+      "rating": 3.8,
+      "reference": "ChIJN3m8iBX_sUARS22xXek1Si4",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "Strada Franceză nr. 60, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.429558,
+          "lng": 26.100565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.4309069802915,
+            "lng": 26.1019139802915
+          },
+          "southwest": {
+            "lat": 44.4282090197085,
+            "lng": 26.09921601970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "744485ac6f652b6629a391ff6b6c5e068c8184b8",
+      "name": "Iceberg Art Production",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJt6a-fhX_sUARLhaaWRrJ1SM",
+      "plus_code": {
+        "compound_code": "C4H2+R6 Bucharest, Romania",
+        "global_code": "8GP8C4H2+R6"
+      },
+      "reference": "ChIJt6a-fhX_sUARLhaaWRrJ1SM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Strada Franceză nr. 52, București"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.4267674,
+          "lng": 26.1025384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 44.541407,
+            "lng": 26.225575
+          },
+          "southwest": {
+            "lat": 44.3342445,
+            "lng": 25.9637001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id": "7a7b9f3da4c3091248e95bb4555cb6d09e040f50",
+      "name": "Bucharest",
+      "photos": [
+        {
+          "height": 920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113482343908983147932/photos\">Randolfo Santos</a>"
+          ],
+          "photo_reference": "CmRaAAAA98yeWFSp1xv-AYEpVKML3XjuCVqt4MCAhm3BKJkZVYL8LEaiPeNWPyf5YqKSStb61pC4o-YavGEEpwj3TBmakVI5Uv_RG5zkcaa1muLz4e2T_Zbd9i53JnMARxjrLanxEhAjAak1rPUEQxI8lpVz6EW5GhQZmbKNsaI268gg9HyfEc-f9-1HNA",
+          "width": 736
+        }
+      ],
+      "place_id": "ChIJT608vzr5sUARKKacfOMyBqw",
+      "reference": "ChIJT608vzr5sUARKKacfOMyBqw",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Bucharest"
+    }
+  ],
+  "status": "OK"
+}
